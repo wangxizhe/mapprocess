@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="MapProcess" type="addpoints"    name="addpoints"    output="screen"/>
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find MapProcess)/launch/default1.rviz" />
+</launch>
