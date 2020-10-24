@@ -1,5 +1,5 @@
 # mapprocess  
-delete or add points in SLAM map  
+Delete or add points in the SLAM map under the ROS platform.  
 ## installation method
 mkdir -p ~/MApPreprocess/src  
 cd MApPreprocess/src  
