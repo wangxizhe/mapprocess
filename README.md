@@ -12,5 +12,6 @@ roslaunch MapProcess deletepoints.launch
 Press P twice to select a range.  
 Press G once to return once, only once.
 ### addpoints.cpp  
+roslaunch MapProcess addpoints.launch  
 Press P once to add a point.  
 Press G once to return once, only once.
