@@ -1,10 +1,10 @@
 # mapprocess  
 delete or add points in SLAM map  
 ## installation method
-mkdir -p ~/MApPreprocess/src
-cd MApPreprocess/src
-git clone https://github.com/wangxizhe/Beidou_Navigation.git
-cd
+mkdir -p ~/MApPreprocess/src  
+cd MApPreprocess/src  
+git clone https://github.com/wangxizhe/mapprocess.git  
+cd  
 catkin_make
 ## operation method
 ### deletepoints.cpp
