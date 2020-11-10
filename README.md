@@ -6,7 +6,8 @@ cd MApPreprocess/src
 git clone https://github.com/wangxizhe/mapprocess.git  
 cd  
 catkin_make
-## operation method
+## operation method  
+source devel/setup.bash
 ### deletepoints.cpp
 roslaunch MapProcess deletepoints.launch  
 Press P twice to select a range.  
