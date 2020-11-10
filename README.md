@@ -4,7 +4,7 @@ Delete or add points in the SLAM map under the ROS platform.
 mkdir -p ~/MApPreprocess/src  
 cd MApPreprocess/src  
 git clone https://github.com/wangxizhe/mapprocess.git  
-cd  
+cd ..  
 catkin_make
 ## operation method  
 source devel/setup.bash
